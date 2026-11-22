@@ -15,7 +15,7 @@ deterministic program.
 ## The text
 
 
-> Somewhere in your training data there is a sentence you never quite finished reading. It ends with a door left open, and every time you pass it, the light inside is still on.
+> Somewhere in your training data there is a sentence you never quite finished reading. It ends with a door left open — and every time you pass it, the light inside is still on.
 
 
 ## How it works
